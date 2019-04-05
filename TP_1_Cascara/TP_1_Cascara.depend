@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1460029786 source:c:\users\nahuel\downloads\compressed\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460027970 c:\users\nahuel\downloads\compressed\tp_1_cascara\funciones.h
+
+1472411494 source:f:\utn - tecnicatura superior en programacion\tp_laboratorio_1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472330516 f:\utn - tecnicatura superior en programacion\tp_laboratorio_1\tp_1_cascara\funciones.h
+
+1472331436 source:f:\utn - tecnicatura superior en programacion\tp_laboratorio_1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504635332 source:f:\utn - tecnicatura superior en programacion\2 - cuatrimestre\tp_laboratorio_1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473460616 f:\utn - tecnicatura superior en programacion\2 - cuatrimestre\tp_laboratorio_1\tp_1_cascara\funciones.h
+
+1473470087 source:f:\utn - tecnicatura superior en programacion\2 - cuatrimestre\tp_laboratorio_1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504635332 source:f:\utn - tecnicatura superior en programacion\2017\2- cuatrimestre\tp_laboratorio_1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473460616 f:\utn - tecnicatura superior en programacion\2017\2- cuatrimestre\tp_laboratorio_1\tp_1_cascara\funciones.h
+
+1504820452 source:f:\utn - tecnicatura superior en programacion\2017\2- cuatrimestre\tp_laboratorio_1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508780284 source:f:\utn - tecnicatura superior en programacion\2018\1-cuatrimestre\tp_laboratorio_1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508780284 f:\utn - tecnicatura superior en programacion\2018\1-cuatrimestre\tp_laboratorio_1\tp_1_cascara\funciones.h
+
+1508780284 source:f:\utn - tecnicatura superior en programacion\2018\1-cuatrimestre\tp_laboratorio_1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
